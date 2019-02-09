@@ -1,3 +1,6 @@
+Working demo: https://build-1qdi7u683.now.sh/
+Copy and paste any image url from the web to work demo. Takes a minute to see your uplaod due to Google Firebase lagging while app is hosted on "Now."
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
